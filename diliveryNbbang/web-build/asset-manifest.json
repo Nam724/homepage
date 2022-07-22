@@ -1,0 +1,24 @@
+{
+  "files": {
+    "app.js": "/homepage/diliveryNbbang/static/js/app.4f8534d1.chunk.js",
+    "app.js.map": "/homepage/diliveryNbbang/static/js/app.4f8534d1.chunk.js.map",
+    "runtime~app.js": "/homepage/diliveryNbbang/static/js/runtime~app.03e1bb07.js",
+    "runtime~app.js.map": "/homepage/diliveryNbbang/static/js/runtime~app.03e1bb07.js.map",
+    "static/js/2.ce89e130.chunk.js": "/homepage/diliveryNbbang/static/js/2.ce89e130.chunk.js",
+    "static/js/2.ce89e130.chunk.js.map": "/homepage/diliveryNbbang/static/js/2.ce89e130.chunk.js.map",
+    "fonts/Happiness-Sans-Bold.ttf": "/homepage/diliveryNbbang/./fonts/Happiness-Sans-Bold.ttf",
+    "fonts/Happiness-Sans-Regular.ttf": "/homepage/diliveryNbbang/./fonts/Happiness-Sans-Regular.ttf",
+    "fonts/Happiness-Sans-Title.ttf": "/homepage/diliveryNbbang/./fonts/Happiness-Sans-Title.ttf",
+    "index.html": "/homepage/diliveryNbbang/index.html",
+    "manifest.json": "/homepage/diliveryNbbang/manifest.json",
+    "serve.json": "/homepage/diliveryNbbang/serve.json",
+    "static/js/2.ce89e130.chunk.js.LICENSE.txt": "/homepage/diliveryNbbang/static/js/2.ce89e130.chunk.js.LICENSE.txt",
+    "static/media/icon.png": "/homepage/diliveryNbbang/static/media/icon.3983e2b5.png",
+    "webpack.config.js": "/homepage/diliveryNbbang/webpack.config.js"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.03e1bb07.js",
+    "static/js/2.ce89e130.chunk.js",
+    "static/js/app.4f8534d1.chunk.js"
+  ]
+}
